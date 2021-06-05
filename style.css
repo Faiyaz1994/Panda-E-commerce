@@ -1,0 +1,18 @@
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.categories img{
+    width: 100px;
+}
+.buy-now{
+    background-color:  #FF136F;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    padding: 9px 25px;
+}
+.panda-subscribe{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
